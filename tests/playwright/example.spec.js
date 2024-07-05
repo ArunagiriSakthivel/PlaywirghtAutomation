@@ -19,7 +19,7 @@ test('get started link', async ({ page }) => {
 
   //#login-button
 
-  //*[@id="login-button"]
+  //*[@id="login-buttons"]
 
   //input[@id='login-button']
 });
